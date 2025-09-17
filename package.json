@@ -7,7 +7,7 @@
     "cordova-hcp": "bin/cordova-hcp"
   },
   "engines": {
-    "node": ">=0.10.3 <=5.1.0"
+    "node": ">=0.10.3"
   },
   "repository": {
     "type": "git",
@@ -41,7 +41,7 @@
     "hidefile": "^1.1.0",
     "lodash": "^3.10.0",
     "minimatch": "^3.0.0",
-    "ngrok": "^2.1.6",
+    "ngrok": "^2.3.0",
     "prompt": "^0.2.14",
     "q": "^1.4.1",
     "readdirp": "^2.0.0",
